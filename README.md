@@ -1,2 +1,2 @@
 # OS-LAB
-All OS assignments
+OS Lab assignments
